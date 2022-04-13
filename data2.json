@@ -9,7 +9,7 @@
             {
             "id": 0,
             "questionNumber": 1,
-            "question": "A 70-year-old gentleman is brought into A&E by an ambulance complaining of substernal chest pain since this morning, associated with vomiting twice. He has had chest pain on walking up hills for the last few months but this pain is now present when sitting down. Aspirin 75 mg PO, morphine and GTN spray have been given. Which of the following is the most important first investigation?",
+            "question": "A 70-year-old gentleman is brought into A&E by an ambulance complaining of substernal chest pain since this morning, associated with vomiting twice. He has had chest pain on walking up hills for the last few months but this pain is now present when sitting down. Aspirin, morphine and GTN spray have been given. Which of the following is the most important first investigation?",
             "answers": ["12-lead ECG", "Transthoracic echocardiogram", "Chest radiograph", "Diagnostic angiography", "CT coronary angiogram"],
             "correctIndex": 0,
             "explanation": "A 12-lead ECG is needed in the first instance to determine if there is ST-elevation or equivalent, in which case urgent referral for primary PCI will be required."
