@@ -2,7 +2,7 @@
     {
         "id": 0,
         "category": "Cardiology",
-        "numberofQuestions": 10,
+        "numberOfQuestions": 10,
         "duration": "20 minutes",
         "image": "systemName: stethoscope",
         "questions": [
@@ -96,7 +96,7 @@
     {
         "id": 1,
         "category": "Vascular Surgery",
-        "numberofQuestions": 10,
+        "numberOfQuestions": 10,
         "duration": "20 minutes",
         "image": "imageVascular",
         "questions": [
@@ -188,7 +188,7 @@
     {
         "id": 2,
         "category": "General Surgery",
-        "numberofQuestions": 10,
+        "numberOfQuestions": 10,
         "duration": "20 minutes",
         "image": "imageGeneralSurgery",
         "questions": [
@@ -281,7 +281,7 @@
     {
         "id": 3,
         "category": "Rheumatology",
-        "numberofQuestions": 10,
+        "numberOfQuestions": 10,
         "duration": "20 minutes",
         "image": "imageRheumatology",
         "questions": [
