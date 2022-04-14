@@ -4,7 +4,7 @@
         "category": "Cardiology",
         "numberOfQuestions": 10,
         "duration": "20 minutes",
-        "image": "systemName: stethoscope",
+        "image": "imageCardiology",
         "questions": [
             {
             "id": 0,
