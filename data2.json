@@ -103,7 +103,7 @@
             {
             "id": 0,
             "questionNumber": 1,
-            "question": "72-year-old gentleman is seen in the vascular clinic due to worsening pain in the left thigh when walking or exerting himself. The pain is relieved when resting and he denies pain anywhere else. He has a past medical history of ischaemic heart disease, high cholesterol and hypertension. Which of the following anatomical structures is most likely to be diseased?",
+            "question": "A 72-year-old gentleman is seen in the vascular clinic due to worsening pain in the left thigh when walking or exerting himself. The pain is relieved when resting and he denies pain anywhere else. He has a past medical history of ischaemic heart disease, high cholesterol and hypertension. Which of the following anatomical structures is most likely to be diseased?",
             "answers": ["Abdominal aorta","left internal iliac artery","left external iliac artery","left main femoral artery","left deep femoral artery"],
             "correctIndex": 4,
             "explanation": "The deep femoral artery supplies the thigh muscles, unlike the femoral artery proper which gives rise to the popliteal artery to supply the distal leg. If structures more proximal to the femoral artery (such as the internal iliac artery) were diseased, his pain may well be more widespread in the leg."
