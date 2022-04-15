@@ -6,6 +6,8 @@
         "duration": "20 minutes",
         "image": "imageCardiology",
         "currentQuestionIndex":0,
+        "questionsAnswered" :0,
+        "questionsCorrect" :0,
         "questions": [
             {
             "id": 0,
@@ -101,6 +103,8 @@
         "duration": "20 minutes",
         "image": "imageVascular",
         "currentQuestionIndex":0,
+        "questionsAnswered" :0,
+        "questionsCorrect" :0,
         "questions": [
             {
             "id": 0,
@@ -194,6 +198,8 @@
         "duration": "20 minutes",
         "image": "imageGeneralSurgery",
         "currentQuestionIndex":0,
+        "questionsAnswered" :0,
+        "questionsCorrect" :0,
         "questions": [
             {
             "id": 0,
@@ -288,6 +294,8 @@
         "duration": "20 minutes",
         "image": "imageRheumatology",
         "currentQuestionIndex":0,
+        "questionsAnswered" :0,
+        "questionsCorrect" :0,
         "questions": [
             {
             "id": 0,
