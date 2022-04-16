@@ -180,7 +180,7 @@
             "answers": ["Wet gangrene","Dry gangrene","Gas gangrene","Venous ulceration","Arterial ulceration"],
             "correctIndex": 1,
             "questionStatus": null,
-            "explanation": "Explanation – the image shows well demarcated necrosis of the toes of the right foot. This indicates dry (non-infected) gangrene, likely from arterial disease. Wet gangrene is poorly demarcated and can spread quickly. It is usually associated with active infection."
+            "explanation": "The image shows well demarcated necrosis of the toes of the right foot. This indicates dry (non-infected) gangrene, likely from arterial disease. Wet gangrene is poorly demarcated and can spread quickly. It is usually associated with active infection."
             },
             {
             "id": 7,
