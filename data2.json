@@ -15,7 +15,7 @@
             "question": "A 70-year-old gentleman is brought into A&E by an ambulance complaining of substernal chest pain since this morning, associated with vomiting twice. He has had chest pain on walking up hills for the last few months but this pain is now present when sitting down. Aspirin, morphine and GTN spray have been given. Which of the following is the most important first investigation?",
             "answers": ["12-lead ECG", "Transthoracic echocardiogram", "Chest radiograph", "Diagnostic angiography", "CT coronary angiogram"],
             "correctIndex": 0,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "A 12-lead ECG is needed in the first instance to determine if there is ST-elevation or equivalent, in which case urgent referral for primary PCI will be required."
             },
             {
@@ -24,7 +24,7 @@
                 "question": "An elderly patient with multiple comorbidities presents with chest pain and a raised troponin. Which of the following is not a cause of a raised troponin?",
                 "answers": ["Acute myocardial infarction", "Myocarditis", "Pulmonary embolism", "Renal impairment", "Rheumatoid arthritis"],
                 "correctIndex": 4,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "All of the above, other than rheumatoid arthritis can cause a raised serum troponin. Troponin leak is caused by injury to cardiomyocytes, which can be from ischaemia (i.e. an MI), inflammation (i.e. myocarditis), strain/pressure overload (e.g. a PE) or metabolic toxicity (e.g. uraemia)."
             },
             {
@@ -34,7 +34,7 @@
                 "image": "imageCardiologyQuestion3",
                 "answers": ["Right conronary artery","Left anterior descending coronary artery","Left circumflex coronary artery","Pericardium","Aorta"],
                 "correctIndex": 1,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "The ECG shows ischaemic ST-elevation in the anterior leads V2-V4 (with less in V5 and V6). There is some reciprocal ST-depression/T-wave inversion in the inferior leads. This is consistent with an anterior STEMI, which is caused by an occlusion of the left anterior descending coronary artery."
             },
             {
@@ -43,7 +43,7 @@
                 "question": "A 69-year-old gentleman is recovering from an uncomplicated myocardial infarction and is due to be discharged today. Which of the following is least likely to form part of his immediate management?",
                 "answers": ["Simvastatin", "Dual antiplatelet therapy", "Cardiac resynchronisation therapy","Lifestyle advice","Beta blockers"],
                 "correctIndex": 2,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "Lifestyle advice and prognostic medications such as statins, beta blockers and ACE inhibitors are a key part of the management after an MI. Additionally, patients usually continue dual antiplatelet therapy for 1 year, and then remain on aspirin lifelong. Cardiac resynchronisation therapy may be indicated, if there is heart failure with a persistent decrease in EF at 6 weeks (<35%) and there is a significant conduction delay (either QRS >120 ms with LBBB or >150 ms with RBBB), but it does not form part of the immediate management."
             },
             {
@@ -53,7 +53,7 @@
                 "image": "imageCardiologyQuestion5",
                 "answers": ["Isoprenaline","Further doses of atropine","Transcutaneous pacing","Permanent pacemaker insertion","DC cardioversion"],
                 "correctIndex": 2,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "This gentleman has severe compromising bradycardia. The ECG strip shows complete (3rd degree) heart block. He has failed to respond to atropine, so the most important next step is trancutaneous pacing to externally pace and stabilise his blood pressure. Although isoprenaline may be used in addition to transcutaneous pacing, it is not the most important next step. He may well require a permanent pacemaker in the coming hours but he needs stabilisation first."
             },
             {
@@ -63,7 +63,7 @@
                 "image": "imageCardiologyQuestion6",
                 "answers": ["IV amiodarone","Synchronised DC cardioversion","Defibrillation","Place on cardiac monitor and observe","IV adenosine"],
                 "correctIndex": 0,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "The ECG shows monomorphic ventricular tachycardia and needs immediate treatment as it could progress to pulseless VT/a cardiac arrest. Since his observations (including BP) are stable, he can be treated with IV amiodarone and does not require DC cardioversion. If his BP was reduced or he was shocked, DC cardioversion would be more appropriate. He will also need a cardiac monitor."
             },
             {
@@ -73,7 +73,7 @@
                 "image": "imageCardiologyQuestion7",
                 "answers": ["IV furosemide", "Oral furosemide","IV nitrates","SC nitrates","CPAP"],
                 "correctIndex": 0,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "This lady has acute heart failure with pulmonary oedema. She needs urgent treatment with IV furosemide to reduce pulmonary venous pressure, reduce pulmonary oedema and improve oxygenation. Oral furosemide will not work fast enough acutely. IV nitrates may form part of the management, but are not first line. CPAP can be used for resistant pulmonary oedema."
             },
             {
@@ -82,7 +82,7 @@
                 "question": "An asymptomatic 32-year-old gentleman has recently been diagnosed with hypertrophic cardiomyopathy after his brother died unexpectedly. The patient’s wife is pregnant and they would like to know the chance their baby will be affected by the condition. What is the chance the baby will be affected?",
                 "answers": ["1 in 10000", "1 in 1000", "1 in 10", "1 in 2", "Unable to tell without genetic testing on his wife"],
                 "correctIndex": 3,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "Hypertrophic cardiomyopathy is caused by mutations in genes encoding myocardial proteins (such as beta myoson, alpha tropomyoson or troponin. It is usually inherited in an autosomal dominant pattern, meaning the baby will have a 1 in 2 chance of inheriting the diseased gene."
             },
             {
@@ -91,7 +91,7 @@
                 "question": "A 57-year-old Caucasian gentleman has recently been diagnosed with hypertension. His blood pressure in clinic today is 160/85 mmHg. He has no past medical history and does not take any medications. Which of the following is the most appropriate therapy for him?",
                 "answers": ["Amlodipine", "Verapamil", "Furosemide","Candesartan","Bendroflumethiazide"],
                 "correctIndex": 0,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "NICE guidelines state that the first line treatment for hypertension in those ≥ 55 or of Afro-Caribbean origin should be a non-cardioselective calcium channel blocker. In those <55 who are not of Afro-Caribbean origin, an ACE inhibitor is first line. Amlodipine is a non-cardioselective calcium channel blocker, unlike verapamil, therefore is most appropriate."
             },
             {
@@ -100,7 +100,7 @@
                 "question": "A 45-year-old gentleman is undergoing a routine assessment with his GP. On examination he is noted to have a mid-systolic click and late systolic murmur. Which of the following is most consistent with these examination findings?",
                 "answers": ["Mitral stenosis","Mitral valve prolapse","Aortic stenosis","Aortic regurgitation","Infective endocarditis"],
                 "correctIndex": 1,
-                "questionStatus": null,
+                "questionStatus": false,
                 "explanation": "A mid-systolic click occurs when the mitral valve opens during ventricular systole (mitral valve prolapse) and then allows blood to regurgitate into the left atrium at the end of systole (causing a late systolic murmur). Mitral stenosis causes a mid to late diastolic murmur with pre-systolic accentuation. Aortic stenosis causes and ejection systolic murmur. Aortic regurgitation causes an early diastolic murmur."
             }
         ]
@@ -122,7 +122,7 @@
             "question": "A 72-year-old gentleman is seen in the vascular clinic due to worsening pain in the left thigh when walking or exerting himself. The pain is relieved when resting and he denies pain anywhere else. He has a past medical history of ischaemic heart disease, high cholesterol and hypertension. Which of the following anatomical structures is most likely to be diseased?",
             "answers": ["Abdominal aorta","left internal iliac artery","left external iliac artery","left main femoral artery","left deep femoral artery"],
             "correctIndex": 4,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The deep femoral artery supplies the thigh muscles, unlike the femoral artery proper which gives rise to the popliteal artery to supply the distal leg. If structures more proximal to the femoral artery (such as the internal iliac artery) were diseased, his pain may well be more widespread in the leg."
             },
             {
@@ -131,7 +131,7 @@
             "question": "A 56-year-old gentleman presents to his GP with pain in the right lower leg when walking for more than 5 minutes at a time. He states it is worsen when walking down-hill. He denies any past-medical history. Examination reveals that the lower limbs are warm and well perfused with palpable pulses bilaterally. Which of the following is the most likely diagnosis?",
             "answers": ["Spinal stenosis","Peripheral vascular disease","Osteoarthritis","Diabetic neuropathy","Hereditary motor and sensory neuropathy"],
             "correctIndex": 0,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The fact that his pain is worse when walking downhill (rather than uphill), points away from ischaemic disease, as does the normal vascular examination. These symptoms are most typical of spinal canal stenosis."
             },
             {
@@ -140,7 +140,7 @@
             "question": "A 63-year-old lady presents to A&E with severe pain in her left calf for 2 hours. It came on suddenly and without warning. Examination reveals that the left leg is pale and cool and distal pulses are impalpable. Pulses on the right leg are strong. She has a past medical history of hypertension and alcohol excess. She is given IV morphine. A 12-lead ECG reveals atrial fibrillation. Which of the following is most likely to be the single best management option?",
             "answers": ["Emergency arterial bypass surgery","Elective arterial bypass in 4 weeks","Emergency surgical embolectomy","Emergency amputation","Peripheral thrombolysis administration"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The sudden onset and fact that the patient has atrial fibrillation suggests that the ischaemia may be secondary to an embolic phenomenon (i.e. a dislodged thrombus from the heart blocking a peripheral artery). This usually can be treated with embolectomy (with a Fogarty catheter) +- the local administration of thrombolysis. Ischaemia caused by thrombus formation cannot be treated as easily and usually needs bypass surgery. Amputation would be needed if there were signs of irreversible necrosis."
             },
             {
@@ -149,7 +149,7 @@
             "question": "An 82-year-old gentleman presents to her GP complaining that his legs ‘look ugly’ due to varicose veins. You indeed notice distended tortuous veins bilaterally on the lower legs. Which of the following is not a risk factor for the development of varicose veins?",
             "answers": ["Male sex","Age","Obesity","Chronic constipation","Working as a hairdresser"],
             "correctIndex": 0,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Risk factors for varicose veins include female sex, older age, factors increasing intra-abdominal pressure (e.g. obesity, ascites, chronic constipation) and occupations requiring prolonged standing (such as surgeons or hairdressers)."
             },
             {
@@ -158,7 +158,7 @@
             "question": "A 54-year-old lady with chronic venous insufficiency has been diagnosed with a new venous ulcer and she is being considered for compression bandaging. Which of the following is a contraindication to compression bandaging?",
             "answers": ["Diabetic neuropathy","Previous arterial ulcer","Previous DVT","Lipodermatosclerosis","Previous thrombophlebitis"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Compression bandaging is the main treatment for venous ulceration. It’s main contraindication is any significant arterial disease (such as having a previous arterial ulcer or an ABPI <0.8)."
             },
             {
@@ -167,7 +167,7 @@
             "question": "A 67-year-old lady is seen in the vascular clinic for consideration of varicose vein surgery. Which of the following is not an indication for varicose vein surgery under an NHS trust?",
             "answers": ["Recurrent phlebitis","Severe pitting oedema","Appearance of legs","Superficial vein thrombosis","Bleeding from veins"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Funding for invasive varicose veins treatment is only available on the NHS where there are symptoms or complications (such as phlebitis, thrombosis or recurrent bleeding). Appearance alone is not an indication under NHS funding."
             },
             {
@@ -177,7 +177,7 @@
             "image": "imageVascularQuestion7",
             "answers": ["Wet gangrene","Dry gangrene","Gas gangrene","Venous ulceration","Arterial ulceration"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Explanation – the image shows well demarcated necrosis of the toes of the right foot. This indicates dry (non-infected) gangrene, likely from arterial disease. Wet gangrene is poorly demarcated and can spread quickly. It is usually associated with active infection."
             },
             {
@@ -186,7 +186,7 @@
             "question": "A 58-year-old gentleman presents to his GP complaining that he has not received any invitation for abdominal aortic aneurysm (AAA) screening. He is concerned as his father died of a ruptured AAA. Which of the following is the best advice regarding asymptomatic screening for AAA?",
             "answers": ["Both men and women are invited for screening","Screening involves an MRI scan","Patients are screened on a 5-yearly basis","Only smokers are invited for screening","A single screening is performed at 65 years of age"],
             "correctIndex": 4,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Asymptomatic screening for AAA in the UK involves a single ultrasound screening of men, at age 65. Women are not invited for screening."
             },
             {
@@ -195,7 +195,7 @@
             "question": "A 70-year-old has recently been diagnosed with an abdominal aortic aneurysm after undergoing a CT scan for an unrelated reason. He has multiple comorbidities. Which of the following is not a risk factor for the development of an abdominal aortic aneurysm?",
             "answers": ["Marfan's syndrome","Smoking","Hypertension","Diabetes","Hypercholesterolaemia"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Surprisingly, diabetes is not a risk factor for aortic aneurysm development, unlike the other factors. This may be because it causes arterial calcification and hardening, reducing the risk of aneurysm formation."
             },
             {
@@ -204,7 +204,7 @@
             "question": "An 87-year-old lady is admitted to hospital after collapsing. She is now fully conscious but has severe abdominal pain. Her blood pressure is 75/50 mmHg, heart rate 120 bpm, oxygen saturation 98% on RA and respiratory rate 24 cycles/min. Examination reveals she is pale and clammy and has an expansile mass in the abdomen. Which of the following would not form part of her immediate management?",
             "answers": ["Instigating a major haemorrhage protocol","Aggressive fluid resuscitation before theatre","Taking the patient straight to theatre","Cross-matching 6 units of blood","Prophylactic antibiotics"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This clinical presentation likely represents a ruptured abdominal aortic aneurysm. Since the patient has reached A&E alive, it is likely that the bleeding has been tamponaded by a clot in the retroperitoneum. Unless the patient is obtunded due to haemorrhagic shock, IV fluids should not be used before theatre as they increase blood pressure and hence the risk of dislodging this clot and rebleeding."
             }
             
@@ -227,7 +227,7 @@
             "question": "A 26-year-old lady presents to A&E with abdominal pain. The pain has been getting worse for the last 3 days and she denies experiencing anything similar before. She also denies any nausea or vomiting or change in bowel habit. Examination reveals that her abdomen is tender in the right iliac fossa but there is no guarding or rigidity. Which of the following is the most important investigation to perform first?",
             "answers": ["FBC","Urine dip","Pregnancy test","US abdomen","CT abdomen with contrast"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Although the other investigations may well be important, a pregnancy test is needed to exclude the major differential of ruptured ectopic pregnancy. If the pregnancy test is negative, differentials include appendicitis, mesenteric adenitis, ovarian pathology/torsion, pelvic inflammatory disease, ureteric stones, referred pain or MSK pain."
             },
             {
@@ -236,7 +236,7 @@
             "question": "You review a 77-year-old lady who is 5 days post-operative after a radical left hemicolectomy and primary anastomosis formation for colorectal cancer. She is reporting abdominal pain and has a tachycardia. Your consultant is worried about the possibility of an anastomosis breakdown and asks you to examine the patient. Which of the following signs would be least consistent with this diagnosis?",
             "answers": ["Fever","Rebound tenderness","Guarding","Tinkling bowel sounds","Pain on coughing"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Tinkling bowel sounds would be more consistent with bowel obstruction, rather than anastomotic leak. All of the other features are consistent with peritonitis."
             },
             {
@@ -246,7 +246,7 @@
             "image": "imageGeneralSurgeryQuestion3",
             "answers": ["500 ml of IV crystalloid","Broad-spectrum antibiotics","100 mg hydrocortisone IV", "Urgent midline laparotomy","NG tube insertion"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The extreme fatigue, lack of specific examination findings, low blood pressure and abnormal biochemistry (raised potassium and reduced sodium) raise the possibility of an Addisonian crisis. Although IV fluids will be important in her management, treating the lack of glucocorticoids and mineralocorticoids is the key. IV antibiotics are also not unreasonable until the diagnosis is confirmed, but are not the first step."
             },
             {
@@ -255,7 +255,7 @@
             "question": "A 62-year-old lady presents with right upper quadrant pain. She has been unwell and had a productive cough for the last week. Her past medical history includes a known history of T2DM and she is a current smoker. Examination reveals that she is tender in the right hypochondrium. Her observations are as follows: heart rate 112 bpm, blood pressure 100/75 mmHg, saturation 92% on 2 L/min, temperature 38.2 degrees and respiratory rate 24/min. As well as FBC and CRP, which of the following is the most appropriate set of investigations to perform next?",
             "answers": ["ABG, blood cultures and chest radiograph","U&Es and CT abdomen","U&Es, urine dip and US kidneys","LFTs, abdominal radiograph and chest radiograph","LFTs and US liver"],
             "correctIndex": 0,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This is a difficult question; although the majority of patients presenting with RUQ pain will have complications of gallstones or another acute abdominal pathology, it is important to recognise signs and symptoms suggestive of referred pain. Low oxygen saturation, tachypnoea, a history of a cough, a smoking history and a fever are all suggestive of a chest infection. Lower lobe pneumonia can present with upper abdominal pain. The most appropriate investigations for a suspected pneumonia causing sepsis are ABG, cultures and chest radiograph. LFTs and US RUQ would be useful to assess for complications of gallstones (e.g. cholangitis) which is a differential but less likely in this context. CT abdomen is not needed as first line (but may be needed if the above investigations fail to reveal the diagnosis). Option C describes the investigations for suspected pyelonephritis, which is also a differential, but is more likely to present with flank pain and dysuria. Abdominal radiography is unlikely to be helpful as its main uses are suspected bowel obstruction or perforation."
             },
             {
@@ -264,7 +264,7 @@
             "question":"A 31-year-old gentleman who presented to hospital two days ago with a one week right iliac fossa pain, fever and raised inflammatory markers and was treated with IV antibiotics but continues to report abdominal pain and a fever. Which of the following is not complication of the most likely diagnosis?",
             "answers": ["Abscess formation","Generalised peritonitis","Small bowel obstruction","Sepsis","Appendicular mass"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This gentleman likely has appendicitis and was treated conservatively with antibiotics, which has become a more common strategy, especially since the COVID-19 pandemic. All of the answers are short-term complications of ruptured appendicitis, other than small bowel obstruction."
             },
             {
@@ -273,7 +273,7 @@
             "question":"A 75-year-old gentleman is being prepared for an emergency laparotomy. The CT scan reports that there is evidence of a ruptured diverticulum. Which of the following parts of the intestine most commonly harbours diverticulae?",
             "answers": ["Terminal ileum","Sigmoid colon","Caecum","Descending colon","Transverse colon"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The sigmoid colon is the most common site of diverticulae, followed by the caecum. Right sided colonic diverticulae are more common in East and Southeast Asia."
             },
             {
@@ -282,7 +282,7 @@
             "question":"A 67-year-old lady presents to her GP with groin swelling. Examination reveals a reducible protrusion located inferior and lateral to the left pubic tubercle. Which of the following is false regarding the most likely diagnosis?",
             "answers": ["It often presents later than other groin hernias","It is very un likely to strangulate","It is more common in females","Its prevalence increases with age","It is more common in obese patients"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Explanation – the clinical history and examination findings are suggestive of a femoral hernia (c.f. an inguinal hernia, which is palpated medial and superior to the pubic tubercle). Femoral hernias are actually more likely to strangulate due to the femoral canal’s rigid anatomy. They are more common in later age, women and obese patients."
             },
             {
@@ -291,7 +291,7 @@
             "question":"A 66-year-old gentleman presents to his GP complaining of vague lower abdominal pain for the last two months. He also reports intermittent diarrhoea and 2 kg of weight loss over this period. He denies any bleeding or change in colour of his stool. He has no past medical history. Which of the following is the most appropriate course of action?",
             "answers": ["Prescribe loperamide","Faecal occult blood testing","CT abdomen","Prescribe buscopan","2-week wait referral"],
             "correctIndex": 4,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "These findings are worrying for a colorectal malignancy and as such require a 2-week wait referral for colonoscopy. Faecal occult blood testing is used as an asymptomatic screening test in the UK, every 2 years for those aged 60-74."
             },
             {
@@ -300,7 +300,7 @@
             "question":"A 75-year-old gentleman is diagnosed with a rectal carcinoma after undergoing a flexible sigmoidoscopy. Which of the following investigations is most likely to be helpful for grading of this cancer?",
             "answers": ["MRI pelvis, CT chest, abdomen and pelvis","Positorn emmison tomography full body","Histology report from biopsy","Direct visualisation with diagnostic laparoscopy"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Grading refers to the histological appearance of a cancer when a sample is viewed under a microscope, whereas stage refers to the degree of spread beyond the basement membrane into local or distant tissues. All the investigations other than biopsy investigate stage rather than grade."
             },
             {
@@ -310,7 +310,7 @@
             "image": "imageGeneralSurgeryQuestion10",
             "answers": ["Emergency laparotomy","Diagnostic laparoscopy","Urgent decompressive signoidoscopy","NG tube insertion and IV fluids","IV antibiotics"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "The clinical features and XR are consistent with a diagnosis of small bowel obstruction. The initial steps in the management of bowel obstruction are keeping the patient NBM, insertion of a wide-bore NGT for free draiange of stomach contents and IV fluids."
             }
 
@@ -333,7 +333,7 @@
             "question": "A 52 year-old lady with rheumatoid arthritis is being reviewed in the Rheumatology clinic. Your consultant asks you about risk factors for rheumatoid arthritis. Which of the following HLA phenotypes is most associated with rheumatoid arthritis?",
             "answers": ["HLA-DR2","HLA-DR3","HLA-DR4","HLA-B27","HLA-B51"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "HLA-DR4 is associated with the development of rheumatoid arthritis (and T1DM). HLA-DR2 is associated with MS and Goodpasture’s syndrome. HLA-DR3 is associated with Sjogren's syndrome, primary biliary cirrhosis, Graves’ disease, myasthenia gravis, SLE and T1DM. HLA-B27 is associated with ankylosing spondylitis and anterior uveitis. HLA-B51 is associated with Behcet’s disease."
             },
             {
@@ -342,7 +342,7 @@
             "question": "A 48 year-old migrant with poorly controlled rheumatoid arthritis presents for review. Which of the following is least likely to be found on examination?",
             "answers": ["Heberden's nodes","Nodules on the forearms","Palmar subluxation","Swan neck deformity","Z-thumbs"],
             "correctIndex": 0,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Heberden’s nodes occur on the distal interphalangeal joints and are more typical of OA (c.f. Bouchard’s nodes, which occur on the proximal interphalangeal joints and can occur in either RA or OA). All of the other features are also typical of RA."
             },
             {
@@ -352,7 +352,7 @@
             "image": "imageRheumatologyQuestion3",
             "answers": ["Pulmonary fibrosis","AA amyloidosis","Congestive cardiac failure","Bronchopheumonia","Liver cirrhosis"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Presenting with fluid overload and 3+ of protein in the urine suggests a diagnosis of nephrotic syndrome, and not cardiac, lung or liver disease. Chronic, poorly controlled RA is a risk factor for AA amyloidosis, which can cause nephrotic syndrome. This is caused by the deposition of serum amyloid A protein (which is an acute phase reactant and raised in chronic inflammation) in the kidney. Definitive diagnosis would be from a kidney biopsy."
             },
             {
@@ -361,7 +361,7 @@
             "question": "A 33 year-old lady with rheumatoid arthritis is reviewed in clinic. She has been taking methotrexate for the last three years. Which of the following is the most accurate statement regarding methotrexate therapy?",
             "answers": ["It is usually taken once a day","Renal impairment is a recognised complication","It usually causes a microcytic anaemia","It is safe in pregnancy","It often causes upper lobe pulmonary fibrosis"],
             "correctIndex": 1,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Methotrexate is the mainstay of disease-modifying therapy for most patients with RA. It can cause renal impairment by crystallisation in the renal tubules. It is usually taken once a week (not once a day) and is not safe in pregnancy. It is a folate antagonist therefore can cause a macrocytic (not microcytic anaemia). Another side effect is pulmonary fibrosis, but it usually causes a lower lobe fibrosis."
             },
             {
@@ -370,7 +370,7 @@
             "question": "A 69 year-old gentleman is reviewed by his GP as he has worsening vision over the last three months. He has a background of rheumatoid arthritis and hypertension. He cannot remember the name of the medicines he takes for these conditions. Examination reveals a normal external eye appearance but dark rings are noted around the macula on fundoscopy. His blood pressure is 168/100 in clinic. Which of the following is the most likely cause of his vision loss?",
             "answers": ["Methotrexate therapy","Mesalazine therapy","Hydroxychloroquine therapy","Hypertensive retinopathy","Age-related macular degeneration"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Hydroxychloroquine is relatively safe in the treatment of autoimmune diseases, but long-term treatment can result in the so-called B’ull’s eye retinopathy’ and as such, yearly screening by retinal photography (by an optician) is required. When picked up early, stopping hydroxychloroquine usually prevents further progression."
             },
             {
@@ -380,7 +380,7 @@
             "image": "imageRheumatologyQuestion6",
             "answers": ["Gram-positive cocci","Gram-negative cocci","Negatively birefringent needle-shaped crystals polarised light microscopy","Positively birefringent rhomboid-shaped crystals polarised light microscopy","Polymorphs alone"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This presentation is most consistent with a diagnosis of gout. The nodules on the ears suggest gouty tophi. He has a number of risk factors for gout, including CKD, heart failure and diuretic therapy. Additionally, the bloods reveal a raised CRP but normal WCC, which makes septic arthritis less likely than gout. Gout is caused by the deposition of negatively birefringent needle-shaped crystals of urate in the synovium (c.f. positively birefringent rhomboid-shaped crystals, which are more consistent with pseudogout/calcium pyrophosphate deposition disease). Detecting organisms on Gram staining would be consistent with septic arthritis. The serum urate is often not elevated in acute gout flares (as it is deposited out into the joints)."
             },
             {
@@ -389,7 +389,7 @@
             "question": "A 72 year-old gentleman is seen in A&E after developing a painful, red and swollen right knee. He is febrile and in considerable pain. He underwent a knee replacement in that knee one week ago. Which of the following is the most important initial treatment for him?",
             "answers": ["IV flucloxacillin","IV ceftriaxone","IV amikacin","IV benzylpenicillin","IV teicoplanin"],
             "correctIndex": 4,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This gentleman has features of septic arthritis. Unfortunately, the most common organism associated with an infected joint with a metal prosthesis in situ is staphylococcus epidermis, which is usually resistant to penicillins (i.e. methicillin-resistant staphylococcus epidermidis, MRSE). As such, glycopeptides are the most appropriate antibiotics (such as teicoplanin or vancomycin)."
             },
             {
@@ -398,7 +398,7 @@
             "question": "An 81 year-old lady presents with pain and stiffness in her shoulders and back, especially in the mornings, over the last three weeks. She also reports increasing fatigue over this time period as well. Examination of the shoulders is normal bilaterally with full power and range of movement. Which of the following is likely to be the most useful investigation to confirm the diagnosis?",
             "answers": ["Shoulder X-rays","Serum rheumatoid factor","FBC","Serum ESR","Serum creatine kinase"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This lady is presenting with features of polymyalgia rheumatica (morning stiffness in the shoulder and pelvic girdle muscles). The muscles usually have normal power and the CK is usually normal (c.f. dermatomyositis). The ESR is the most important investigation as it is usually raised in PMR. PMR is treated with oral steroids. Temporal arteritis is associated with PMR."
             },
             {
@@ -407,7 +407,7 @@
             "question": "A 40 year-old gentleman is reviewed in the Rheumatology clinic. He has been extremely fatigued recently and had body pains. These are mainly located in back and buttocks and are associated with stiffness. Examination reveals reduced forward and lateral flexion of the lumbar spine but is otherwise unremarkable. Which of the following is not a complication of his underlying diagnosis?",
             "answers": ["Achilles tendinitis","Anterior uveitis","Aortic stenosis","Hip arthritis","Pulmonary fibrosis"],
             "correctIndex": 2,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "This gentleman has a diagnosis of ankylosing spondylitis. All of the answers other than aortic stenosis are a complication of spondyloarthropathies such as ankylosing spondylitis. Additionally, aortic regurgitation is a complication."
             },
             {
@@ -416,7 +416,7 @@
             "question": "A 60 year-old gentleman presents to his GP with joint pains and a new scaly rash on his elbows. You suspect he may have psoriatic arthritis. Which of the following statements is most accurate regarding this condition?",
             "answers": ["It is more common in men","The majority of patients develop joint disease and skin disease at the same time","It has a worse prognosis than rheumatoid arthritis","Nail changes increase the likelyhood that joint disease will develop","Rheumatoid factor is often present in advanced disease"],
             "correctIndex": 3,
-            "questionStatus": null,
+            "questionStatus": false,
             "explanation": "Psoriatic arthritis is one of the four seronegative spondyloarthropathies (the others being ankylosing spondylitis, reactive arthritis and enteropathy-associated arthritis). It has an equal sex distribution and is associated with HLA-B27. In 70% of patients, the skin disease precedes the joint disease, in 15% they occur simultaneously and in the final 15%, the skin disease occurs after joint disease is established. In those with only skin disease, nail changes such as pitting, ridging and onycholysis increase the risk that joint disease will develop. It has a better prognosis than RA and usually requires less aggressive treatment."
             }
         ]
