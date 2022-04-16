@@ -130,7 +130,7 @@
             {
             "id": 1,
             "questionNumber": 2,
-            "question": "A 56-year-old gentleman presents to his GP with pain in the right lower leg when walking for more than 5 minutes at a time. He states it is worsen when walking down-hill. He denies any past-medical history. Examination reveals that the lower limbs are warm and well perfused with palpable pulses bilaterally. Which of the following is the most likely diagnosis?",
+            "question": "A 56-year-old gentleman presents to his GP with pain in the right lower leg when walking for more than 5 minutes at a time. He states it is worse when walking down-hill. He denies any past-medical history. Examination reveals that the lower limbs are warm and well perfused with palpable pulses bilaterally. Which of the following is the most likely diagnosis?",
             "answers": ["Spinal stenosis","Peripheral vascular disease","Osteoarthritis","Diabetic neuropathy","Hereditary motor and sensory neuropathy"],
             "correctIndex": 0,
             "questionStatus": null,
