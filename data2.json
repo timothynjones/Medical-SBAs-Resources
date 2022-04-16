@@ -283,7 +283,7 @@
             "id": 6,
             "questionNumber": 7,
             "question":"A 67-year-old lady presents to her GP with groin swelling. Examination reveals a reducible protrusion located inferior and lateral to the left pubic tubercle. Which of the following is false regarding the most likely diagnosis?",
-            "answers": ["It often presents later than other groin hernias","It is very un likely to strangulate","It is more common in females","Its prevalence increases with age","It is more common in obese patients"],
+            "answers": ["It often presents later than other groin hernias","It is very unlikely to strangulate","It is more common in females","Its prevalence increases with age","It is more common in obese patients"],
             "correctIndex": 1,
             "questionStatus": null,
             "explanation": "Explanation – the clinical history and examination findings are suggestive of a femoral hernia (c.f. an inguinal hernia, which is palpated medial and superior to the pubic tubercle). Femoral hernias are actually more likely to strangulate due to the femoral canal’s rigid anatomy. They are more common in later age, women and obese patients."
@@ -301,7 +301,7 @@
             "id": 8,
             "questionNumber": 9,
             "question":"A 75-year-old gentleman is diagnosed with a rectal carcinoma after undergoing a flexible sigmoidoscopy. Which of the following investigations is most likely to be helpful for grading of this cancer?",
-            "answers": ["MRI pelvis, CT chest, abdomen and pelvis","Positorn emmison tomography full body","Histology report from biopsy","Direct visualisation with diagnostic laparoscopy"],
+            "answers": ["MRI pelvis", "CT chestabdomen and pelvis","Positorn emmison tomography full body","Histology report from biopsy","Direct visualisation with diagnostic laparoscopy"],
             "correctIndex": 3,
             "questionStatus": null,
             "explanation": "Grading refers to the histological appearance of a cancer when a sample is viewed under a microscope, whereas stage refers to the degree of spread beyond the basement membrane into local or distant tissues. All the investigations other than biopsy investigate stage rather than grade."
