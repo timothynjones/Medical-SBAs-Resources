@@ -80,7 +80,7 @@
             {
                 "id": 8,
                 "questionNumber": 9,
-                "question": "A 57-year-old Caucasian gentleman has recently been diagnosed with hypertension. Her blood pressure in clinic today is 160/85 mmHg. She has no past medical history and does not take any medications. Which of the following is the most appropriate therapy for him?",
+                "question": "A 57-year-old Caucasian gentleman has recently been diagnosed with hypertension. His blood pressure in clinic today is 160/85 mmHg. He has no past medical history and does not take any medications. Which of the following is the most appropriate therapy for him?",
                 "answers": ["Amlodipine", "Verapamil", "Furosemide","Candesartan","Bendroflumethiazide"],
                 "correctIndex": 0,
                 "explanation": "NICE guidelines state that the first line treatment for hypertension in those ≥ 55 or of Afro-Caribbean origin should be a non-cardioselective calcium channel blocker. In those <55 who are not of Afro-Caribbean origin, an ACE inhibitor is first line. Amlodipine is a non-cardioselective calcium channel blocker, unlike verapamil, therefore is most appropriate."
