@@ -8,7 +8,7 @@
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
         "questionsCorrect" :0,
-        "submittedButGoneBack" :true,
+        "submittedButGoneBack" :false,
         "questions": [
             {
             "id": 0,
