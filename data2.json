@@ -8,6 +8,7 @@
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
         "questionsCorrect" :0,
+        "submittedButGoneBack" :false,
         "questions": [
             {
             "id": 0,
@@ -115,6 +116,7 @@
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
         "questionsCorrect" :0,
+        "submittedButGoneBack" :false,
         "questions": [
             {
             "id": 0,
@@ -220,6 +222,7 @@
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
         "questionsCorrect" :0,
+        "submittedButGoneBack" :false,
         "questions": [
             {
             "id": 0,
@@ -326,6 +329,7 @@
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
         "questionsCorrect" :0,
+        "submittedButGoneBack" :false,
         "questions": [
             {
             "id": 0,
