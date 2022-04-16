@@ -64,7 +64,7 @@
                 "id": 6,
                 "questionNumber": 7,
                 "question": "You are called to see a 70-year-old lady on the ward as she has become very breathless. She has a known history of ischaemic heart disease. She is tachycardic at 112 bpm and her oxygen saturation is 92% on 4 L/min but her other observations are normal. Examination reveals crackles at the bases of both lungs. An ECG shows sinus tachycardia and a chest radiograph is shown below. Which of the following is the next most important step in her immediate management?",
-                "image": "imageCardiologyQuestion6",
+                "image": "imageCardiologyQuestion7",
                 "answers": ["IV furosemide", "Oral furosemide","IV nitrates","SC nitrates","CPAP"],
                 "correctIndex": 0,
                 "explanation": "This lady has acute heart failure with pulmonary oedema. She needs urgent treatment with IV furosemide to reduce pulmonary venous pressure, reduce pulmonary oedema and improve oxygenation. Oral furosemide will not work fast enough acutely. IV nitrates may form part of the management, but are not first line. CPAP can be used for resistant pulmonary oedema."
