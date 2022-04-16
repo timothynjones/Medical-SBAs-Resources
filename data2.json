@@ -49,7 +49,7 @@
                 "image": "imageCardiologyQuestion5",
                 "answers": ["Isoprenaline","Further doses of atropine","Transcutaneous pacing","Permanent pacemaker insertion","DC cardioversion"],
                 "correctIndex": 2,
-                "explanation": "This gentleman has severe compromising bradycardia. The ECG strip shows complete (3rd degree) heart block. He has failed to respond to atropine, so the most important next step is trancutaneous pacing to externally pace and stabilise his blood pressure. Although isoprenaline may be used in addition as transcutaneous pacing, it is not the most important next step. He may well require a permanent pacemaker in the coming hours but he needs stabilisation first."
+                "explanation": "This gentleman has severe compromising bradycardia. The ECG strip shows complete (3rd degree) heart block. He has failed to respond to atropine, so the most important next step is trancutaneous pacing to externally pace and stabilise his blood pressure. Although isoprenaline may be used in addition to transcutaneous pacing, it is not the most important next step. He may well require a permanent pacemaker in the coming hours but he needs stabilisation first."
             },
             {
                 "id": 5,
