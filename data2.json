@@ -123,6 +123,17 @@
                 "questionCategory": "Cardiology",
                 "questionStatus": null,
                 "explanation": "A mid-systolic click occurs when the mitral valve opens during ventricular systole (mitral valve prolapse) and then allows blood to regurgitate into the left atrium at the end of systole (causing a late systolic murmur). Mitral stenosis causes a mid to late diastolic murmur with pre-systolic accentuation. Aortic stenosis causes and ejection systolic murmur. Aortic regurgitation causes an early diastolic murmur."
+            },
+            {
+                "id": 10,
+                "questionNumber": 11,
+                "question": "A 76-year-old gentleman presents to the emergency department with central sharp chest pain that is relieved when sitting forwards. He has known ischaemic heart disease and had a myocardial infarction three weeks ago. Bloods show a normal troponin but the ECG reveals widespread ST elevation. Which of the following is single best management option",
+                "answers": ["Percutaneous coronary intervention","Aspirin","Colchicine","Apixaban","Ibuprofen"],
+                "correctIndex": 2,
+                "userIndex": null,
+                "questionCategory": "Cardiology",
+                "questionStatus": null,
+                "explanation": "This presentation is most consistent with a diagnosis of pericarditis. In the context of a recent MI, it is most likely Dressler’s syndrome. This may be caused by an autoimmune reaction some weeks after an MI (when damaged cardiomyocytes release antigens which trigger autoimmunity against the pericardium). Colchicine is the most appropriate management. Patients should be warned about the likelihood of diarrhoea, which is the major side effect of colchicine. Pericarditis can also be managed with NSAIDs but this is not appropriate given his age and comorbidities."
             }
         ]
         
