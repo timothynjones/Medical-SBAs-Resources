@@ -2,8 +2,8 @@
     {
         "id": 0,
         "category": "Cardiology",
-        "numberOfQuestions": 10,
-        "duration": "20 minutes",
+        "numberOfQuestions": 11,
+        "duration": "22 minutes",
         "image": "imageCardiology",
         "currentQuestionIndex":0,
         "questionsAnswered" :0,
